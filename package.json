@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "nodejs-bootcamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ysmello/nodejs-bootcamp.git",
+  "author": "Yuri Mello <yuridemeello@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node": "^20.2.0"
+  }
+}
