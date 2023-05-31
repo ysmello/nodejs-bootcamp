@@ -1,9 +1,6 @@
 # Bootcamp Nodejs
 
-Bootcamp para treinar e aprender fundamentos simples até os mais avançandos.
-Nesse repositório existe vários projetos utilizando Fastify, Knex, TypeScript e outras ferramentas
-que auxiliam o desenvolvimento,também existe alguns conceitos como SOLID, Design Patters, Docker, 
-JWT e Refresh Token, RBAC, DDD e diversos outros conceitos
+Bootcamp para treinar e aprender fundamentos simples até os mais avançandos. Nesse repositório existe vários projetos utilizando Fastify, Knex, TypeScript e outras ferramentas que auxiliam o desenvolvimento,também existe alguns conceitos como SOLID, Design Patters, Docker, JWT e Refresh Token, RBAC, DDD e diversos outros conceitos
 
 ## Projeto 1
 
