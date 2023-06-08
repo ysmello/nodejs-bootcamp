@@ -11,3 +11,4 @@
 /api-solid/node_modules
 /api-solid/build
 /api-solid/.env
+/api-solid/coverage
