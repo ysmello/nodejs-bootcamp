@@ -19,7 +19,7 @@ describe('Validate Check-in Use Case', () => {
     vi.useRealTimers()
   })
 
-  it('should be able to validate the check-in', async () => {
+  it('should be able to validate a check-in', async () => {
     const createdCheckIn = await checkInsRepository.create({
       gym_id: 'gym-01',
       user_id: 'user-01',
